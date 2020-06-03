@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 // Book class: Represents a book
 class Book {
     constructor(title, author, isbn) {
