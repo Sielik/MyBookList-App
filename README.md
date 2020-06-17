@@ -1,6 +1,6 @@
 # MyBookList-App
 Keep track of the books
 
-HTML, Bootstrap, Javascript
 
-Course by Brad Traversy
+
+Project made during the Brad Traversy course
